@@ -12,7 +12,5 @@ class MainActivity : AppCompatActivity() {
         //添加funA功能
 
         //添加funA（直接合并到主分支）
-
-        //增加一个功能，后续需要restore
     }
 }
